@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background-image: url('poto/aku.jpg');
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.home {
+    background-color: #25353c;
+}
+
+.home .navbar {
+    margin-top: 5px;
+}
+
+.home .navbar-brand {
+    color: white;
+    font-size: 2em;
+    font-weight: 700;
+    margin-left: 10%;
+}
+
+.home .nav {
+    margin-right: 10px;
+}
+
+.home .nav li a {
+    font-size: 1em;
+    color: white;
+    padding: 20px 20px;
+}
+
+.home .nav li a:hover {
+    background-color: silver;
+    color: #25353c;
+}
+
+.info {
+    margin-top: 25%;
+    color: #25353c;
+}
+
+.info .text-center {
+    font-weight: 900;
+    border: 2px solid;
+    font-family: sans-serif;
+}

@@ -1,0 +1,30 @@
+body {
+    background-color: #222d32;
+}
+
+.global-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    padding-top: 70px;
+}
+
+.judul {
+    width: 90%;
+    height: 80%;
+    padding: 10px;
+    background-color: silver;
+    border: 10px;
+}
+
+.card-title {
+    font-weight: 900;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.head {
+    background-color: rgb(107, 150, 150);
+}

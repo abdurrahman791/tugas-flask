@@ -1,0 +1,32 @@
+body {
+    height: 100Px;
+    background-color: #222d32;
+}
+
+.global-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #4be248;
+    padding-top: 300px;
+}
+
+.login-form {
+    width: 380px;
+    height: 450px;
+    padding: 20px;
+    background-color: #25353c;
+    border-radius: 10px;
+}
+
+.card-title {
+    font-weight: 900;
+    padding-top: 20px;
+}
+
+.btn {
+    background: #4be248 !important;
+    color: #222d32 !important;
+    font-size: 15px;
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: #222d32;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    color: #4be248;
+    padding-top: 10%;
+}
+
+.judul {
+    width: 450px;
+    height: 530px;
+    padding: 20px;
+    background-color: #25353c;
+    border-radius: 10px;
+}
